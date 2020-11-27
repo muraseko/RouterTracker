@@ -1,0 +1,11 @@
+<%= form_with(model: @routerlists, local: true) do |form| %>
+  <div class="routerlist_POdate">
+    <%= form.label :POdate %>
+    <%= form.text_field :POdate %>
+  </div>
+  <div class="routerlist_supplier">
+    <%= form.label :supplier %>
+    <%= form.text_field :supplier %>
+  </div>
+  <%= form.submit %>
+<% end %>

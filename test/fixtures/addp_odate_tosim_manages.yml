@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  POdate: MyString
+  start: MyString
+  end: MyString
+  routerMAC: MyString
+  supplier: 
+
+two:
+  POdate: MyString
+  start: MyString
+  end: MyString
+  routerMAC: MyString
+  supplier: 

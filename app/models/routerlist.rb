@@ -1,0 +1,2 @@
+class Routerlist < ApplicationRecord
+end

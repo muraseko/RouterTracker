@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Vacannumber: MyString
+  ICCID: MyString
+  conternt: MyText
+
+two:
+  Vacannumber: MyString
+  ICCID: MyString
+  conternt: MyText

@@ -1,0 +1,2 @@
+class AddpOdateTosimManage < ApplicationRecord
+end
